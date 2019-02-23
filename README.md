@@ -3,4 +3,4 @@ TGJS
 
 This is **T**ext **G**ames JS _Lib_ (hopefully an engine in the future).
 
-[](https://shields.io/badge/lib_ver-0.0.1a-red.svg)
+[](https://img.shields.io/github/commits-since/SkillGG/TGJS/v0.0.svg)

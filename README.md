@@ -16,3 +16,12 @@ Then just add them into your html as simple script tag:
 ```html
 <script src='<library>.js'></script>
 ```
+or
+```html
+<script src='all.js'></script>
+```
+
+Documentation
+=========
+
+The documentation is provided [here](/Doc/doc.md)
